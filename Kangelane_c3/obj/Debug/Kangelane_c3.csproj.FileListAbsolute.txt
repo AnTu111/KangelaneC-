@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Programmeerimine\KangelaneC#\Kangelane_c3\obj\Debug\Kangelane_c3.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Programmeerimine\KangelaneC#\Kangelane_c3\obj\Debug\Kangelane_c3.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Programmeerimine\KangelaneC#\Kangelane_c3\bin\Debug\Kangelane_c3.exe.config
+C:\Users\admin\Desktop\Programmeerimine\KangelaneC#\Kangelane_c3\bin\Debug\Kangelane_c3.exe
+C:\Users\admin\Desktop\Programmeerimine\KangelaneC#\Kangelane_c3\bin\Debug\Kangelane_c3.pdb
+C:\Users\admin\Desktop\Programmeerimine\KangelaneC#\Kangelane_c3\obj\Debug\Kangelane_c3.exe
+C:\Users\admin\Desktop\Programmeerimine\KangelaneC#\Kangelane_c3\obj\Debug\Kangelane_c3.pdb
